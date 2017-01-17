@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MyFirstPod"
-  s.version      = "0.0.5"
+  s.version      = “1.0.5”
   s.summary      = "常用的分类封装."
 
 
